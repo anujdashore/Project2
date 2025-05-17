@@ -98,7 +98,7 @@ function initDatabase() {
               date: "2023-05-09",
               description: "Brown leather wallet containing some cash and credit cards. Owner can identify contents.",
               contact: "security@example.com",
-              image: "assets/wallet.jpg",
+              image: "Leather wallet.jpg",
               reportedBy: "user7"
           },
           {
@@ -122,7 +122,7 @@ function initDatabase() {
               date: "2023-05-07",
               description: "Hydro Flask water bottle, 32oz, color mint green with some stickers.",
               contact: "gym.staff@example.com",
-              image: "assets/water-bottle.jpg",
+              image: "water bottel.jpg",
               reportedBy: "user9"
           },
           {
