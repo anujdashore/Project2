@@ -122,7 +122,7 @@ function initDatabase() {
               date: "2023-05-07",
               description: "Hydro Flask water bottle, 32oz, color mint green with some stickers.",
               contact: "gym.staff@example.com",
-              image: "waterBottel.jpg",
+              image: "WB.jpg",
               reportedBy: "user9"
           },
           {
